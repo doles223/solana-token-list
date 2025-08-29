@@ -1,9 +1,25 @@
 {
-  "chainId": 101,
-  "address": "DvvYx7xwE6o3ynv3yGfcvLgRSLyzWbkpmd3DShr3xkD",
-  "symbol": "BUZZ",
-  "name": "BUZZ.AI",
-  "decimals": 6,
-  "logoURI": "https://raw.githubusercontent.com/doles233/Buzz.AI-2.0/main/logo.png",
-  "tags": ["meme", "community", "ai"]
+  "name": "Solana Token List",
+  "tokens": [
+    {
+      "chainId": 101,
+      "address": "So11111111111111111111111111111111111111112",
+      "symbol": "SOL",
+      "name": "Solana",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png",
+      "tags": ["native"]
+    },
+    {
+      "chainId": 101,
+      "address": "DvvYx7xwE6o3ynv3yGfcvLgRSLyzWbkpmd3DShr3xkD",
+      "symbol": "BUZZ",
+      "name": "BUZZ.AI",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/doles233/Buzz.AI-2.0/main/logo.png",
+      "tags": ["meme", "community", "ai"]
+    }
+  ]
 }
+
+
